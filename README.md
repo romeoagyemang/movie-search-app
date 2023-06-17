@@ -1,2 +1,2 @@
 # movie-search-app
-A platform for seaching movies both old and new movies. 
+A platform for searching movies both old and new movies. 
